@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+merman_wrapper.egg-info/
+.DS_Store
+*.pyc
+.mypy_cache
+.pytest_cache
+__pycache__
+merman.wasm
