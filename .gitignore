@@ -7,3 +7,4 @@ merman_wrapper.egg-info/
 .pytest_cache
 __pycache__
 merman.wasm
+dist
